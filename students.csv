@@ -1,0 +1,4 @@
+ID,Name,RollNo,Dept,Email,Phone,Subject1,Subject2,Subject3,Total,Grade
+1,Amit Kumar,CS101,Computer Science,amit@example.com,9876543210,85,78,92,255,A
+2,Sneha Sharma,BT102,Biotechnology,sneha@example.com,9123456780,90,91,88,269,A
+3,Ravi Patel,ME103,Mechanical,ravi@example.com,9001234567,60,55,70,185,C
