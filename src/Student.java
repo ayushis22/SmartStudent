@@ -59,11 +59,11 @@ public class Student {
      * @return Grade as a letter (A+, A, B, C, or F)
      */
     public String getGrade() {
-        int avg = getTotalMarks() / 3;
-        if (avg >= 90) return "A+";
-        else if (avg >= 80) return "A";
-        else if (avg >= 70) return "B";
-        else if (avg >= 60) return "C";
+        double avg = getTotalMarks() / 3.0;
+        if (avg >= 90.0) return "A+";
+        else if (avg >= 80.0) return "A";
+        else if (avg >= 70.0) return "B";
+        else if (avg >= 60.0) return "C";
         else return "F";
     }
 }

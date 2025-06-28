@@ -7,9 +7,9 @@ import java.sql.*;
 public class DatabaseConnection {
 
     // Database URL, username, and password constants
-    public static final String URL = "jdbc:mysql://localhost:3306/database_name";
-    public static final String USER = "your_user";
-    public static final String PASSWORD = "your_password";
+    public static final String URL = "jdbc:mysql://localhost:3306/smartstudent";
+    public static final String USER = "root";
+    public static final String PASSWORD = "Ayushis@2635";
 
     /**
      * Establishes and returns a connection to the MySQL database.
